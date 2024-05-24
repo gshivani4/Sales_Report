@@ -17,6 +17,3 @@ In this project, I have utilized Power BI to create a comprehensive and interact
 
 You can view the report by downloading the `.pbix` file and opening it in Power BI Desktop.
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
